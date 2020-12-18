@@ -1,0 +1,23 @@
+/*SMALL PHONES / FROM 0 TO 480PX*/
+@media only screen and (max-width: 480px){
+
+}
+
+
+/*SMALL PHONES TO TABLETS / FROM 480 TO 767PX*/
+@media only screen and (max-width: 767px){
+
+}
+   
+/*SMALL TABLETS TO BIG TABLETS/ FROM 767 TO 1023PX*/
+@media only screen and (max-width: 1023px){
+
+    }
+
+
+
+
+/*BIG TBLAT TO 1200PX/ (WITDH SMALLER THAT 1140PX ROW*/
+@media only screen and (max-width: 1200px){
+    
+}
